@@ -1,0 +1,5 @@
+{
+  "name": "Market Pulse AI",
+  "description": "An AI-powered dashboard that provides trading insights for gold futures (GC) by analyzing news headlines and market data. It generates a long/short score every two minutes to help traders gauge market sentiment.",
+  "requestFramePermissions": []
+}
